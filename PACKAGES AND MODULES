@@ -1,0 +1,6 @@
+INSTALL THESE PACKAGES
+pip install requests
+pip install beautifulsoup4 urllib3
+# After installing the necessary packages, you should be able to run this script
+Install necessary packages:
+pip install requests beautifulsoup4 urllib3
